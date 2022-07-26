@@ -1,0 +1,6 @@
+The user will be prompted to enter height
+Height range is from 1 to 8
+On iteration print # then a new line
+As the iteration continues through height
+Number of rows is dependent on the value entered by the user
+
